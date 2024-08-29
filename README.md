@@ -1,9 +1,9 @@
 - 👋 Hello, my name is Tony Sciple aka @scipele 
 - 👀 I’m interested in ...
      -   Originally a mechanical engineering background but currently doing construction estimating
-     -   C++ Programming related to data, engineering calcultions, graphics
+     -   C++ Programming related to data, engineering calculations, graphics
      -   Database Programing, Sql
-     -   Programming with VBA (Excel, Access) just because its so easy having the built in UI Excel Sheets / Access Tables-Queries to work with and its available at work
+     -   Programming with VBA (Excel, Access) / Access Tables-Queries to work with and its available at work
      -   Limited Assembly Language just to get basic understanding of what it looks like when say a c program is compiled
 - 🌱 I’m currently learning ...
      - C++ Data Structures and how this relates to object oriented programming (OOP)
